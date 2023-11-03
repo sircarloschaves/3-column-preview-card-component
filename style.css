@@ -76,7 +76,8 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: left;
-  padding-block: 2.5rem;
+  padding-block-start: 2.5rem;
+  padding-block-end: 2.8rem;
   padding-inline: 3rem;
 }
 
@@ -108,7 +109,7 @@ body {
   font-size: var(--fs-400);
   font-weight: 400;
   color: var(--clr-neutral-transparent_white);
-  line-height: 1.6;
+  line-height: 1.5;
   margin-top: 2rem;
 }
 
