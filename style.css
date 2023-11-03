@@ -108,7 +108,7 @@ body {
   font-size: var(--fs-400);
   font-weight: 400;
   color: var(--clr-neutral-transparent_white);
-  line-height: 1.5;
+  line-height: 1.6;
   margin-top: 2rem;
 }
 
@@ -157,7 +157,7 @@ footer {
   }
 
   .container {
-    max-width: 950px;
+    max-width: 920px;
     grid-template-columns: 1fr 1fr 1fr;
   }
 
@@ -174,7 +174,7 @@ footer {
   }
 
   .btn {
-    margin-top: 4rem;
+    margin-top: 4.6rem;
   }
 
   footer {
