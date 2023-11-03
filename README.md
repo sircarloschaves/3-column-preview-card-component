@@ -34,13 +34,12 @@ Users should be able to:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I'm trying to improve my understanding of pixel perfect, especially in terms of spaces and fillings.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Carlos Chaves](https://github.com/sircarloschaves)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@carloschavesdev](https://twitter.com/carloschavesdev)
+- Linkedin - [Carlos Chaves](https://www.linkedin.com/in/carloschavesdev/)
 
