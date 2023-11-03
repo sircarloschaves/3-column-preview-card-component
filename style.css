@@ -62,6 +62,7 @@ svg {
 
 body {
   padding: 1.3rem;
+  background-color: var(--clr-neutral-light_gray);
 }
 
 .container {
