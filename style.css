@@ -135,6 +135,7 @@ body {
   border: 2px solid transparent;
   border-radius: 1.5em;
   margin-top: 2rem;
+  transition: background 250ms;
 }
 
 .btn:hover,
